@@ -26,4 +26,10 @@ setcookie($name, $value, $expiration);
 
 </body>
 
+<?php
+if (isset($_COOKIE[$name])) {
+    echo $_COOKIE[$name]; // value
+}
+?>
+
 </html>
