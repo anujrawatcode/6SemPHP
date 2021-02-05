@@ -1,0 +1,5 @@
+How to collect information from  user
+1. Forms
+2. Links/ URL
+3. Cookies
+4.    
