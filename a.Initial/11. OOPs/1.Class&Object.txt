@@ -1,0 +1,22 @@
+OOP = object oriented programming
+
+
+Class ?
+Blue Print
+defination
+description of something in your program
+
+class define 2 things
+1. Properties : variable, Array, Data
+2. Methords : Functins/Behaviours
+
+class define a object
+
+Object ?
+variable, function , DS, real world entity 
+
+object = Properties + Methords
+
+car       wheels       move wheels
+          seats        move seats
+          Radio        turn Radio
